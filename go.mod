@@ -1,4 +1,4 @@
-module github.com/nickelghost/ngtel/gcp
+module github.com/nickelghost/ngtelgcp
 
 go 1.24.2
 
