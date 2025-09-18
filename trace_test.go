@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"testing"
 
-	ngtelgcp "github.com/nickelghost/ngtel/gcp"
+	"github.com/nickelghost/ngtelgcp"
 	"go.opentelemetry.io/otel/trace"
 )
 
